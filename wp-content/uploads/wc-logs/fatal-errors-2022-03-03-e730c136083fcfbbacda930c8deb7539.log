@@ -1,0 +1,16 @@
+2022-03-03T00:12:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\ifran_wp\wp-content\plugins\woocommerce\src\Internal\RestockRefundedItemsAdjuster.php à la ligne 10
+
+2022-03-03T00:20:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\ifran_wp\wp-includes\pomo\mo.php on line 315
+
+2022-03-03T00:24:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\ifran_wp\wp-content\plugins\elementor-pro\plugin.php à la ligne 140
+
+2022-03-03T09:19:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\ifran_wp\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-taxonomies.php à la ligne 10
+
+2022-03-03T12:01:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\ifran_wp\wp-content\plugins\elementor\includes\autoloader.php à la ligne 285
+
+2022-03-03T12:05:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\ifran_wp\wp-content\plugins\elementor-pro\plugin.php à la ligne 140
+
+2022-03-03T12:11:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\ifran_wp\wp-content\plugins\elementor\includes\autoloader.php à la ligne 285
+
+2022-03-03T13:09:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\ifran_wp\wp-includes\l10n.php à la ligne 748
+

@@ -1,0 +1,4 @@
+2022-03-07T09:49:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\ifran_wp\wp-content\plugins\elementor-pro\plugin.php à la ligne 140
+
+2022-03-07T09:58:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\ifran_wp\wp-includes\Requests\Transport\cURL.php à la ligne 164
+

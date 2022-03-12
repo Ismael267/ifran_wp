@@ -1,0 +1,153 @@
+<wpml-config>
+    <admin-texts>
+        <!-- Frontend dashboard label-->
+        <key name="fs_affiliates_dashboard_customization_overview_label"/>
+        <key name="fs_affiliates_dashboard_customization_tools_label"/>
+        <key name="fs_affiliates_dashboard_customization_coupon_label"/>
+        <key name="fs_affiliates_dashboard_customization_campaigns_label"/>
+        <key name="fs_affiliates_dashboard_customization_links_label"/>
+        <key name="fs_affiliates_dashboard_customization_creatives_label"/>
+        <key name="fs_affiliates_dashboard_customization_friend_form_label"/>
+        <key name="fs_affiliates_dashboard_customization_referrals_label"/>
+        <key name="fs_affiliates_dashboard_customization_visits_label"/>
+        <key name="fs_affiliates_dashboard_customization_payouts_label"/>
+        <key name="fs_affiliates_dashboard_customization_profile_label"/>
+        <key name="fs_affiliates_dashboard_customization_basic_details_label"/>
+        <key name="fs_affiliates_dashboard_customization_acc_mgmt_label"/>
+        <key name="fs_affiliates_dashboard_customization_payment_mgmt_label"/>
+        <key name="fs_affiliates_dashboard_customization_logout_label"/>
+        <key name="fs_affiliates_leaderboard_menu_label"/>
+        <!-- Frontend dashboard label-->
+        
+        <key name="fs_affiliates_wc_account_management_menu_label"/>
+        <key name="fs_affiliates_wc_account_management_message"/>
+        <key name="fs_affiliates_checkout_affiliate_label"/>
+        <key name="fs_affiliates_checkout_affiliate_display_style"/>
+        
+        <!-- Wallet-->
+        <key name="fs_affiliates_affiliate_wallet_menu_label"/>
+        <key name="fs_affiliates_affiliate_wallet_balance_label"/>
+        <key name="fs_affiliates_affiliate_wallet_log_label"/>
+        <!-- Wallet-->
+        
+        <!-- Email Verification-->
+        <key name="fs_affiliates_email_verification_email_subject"/>
+        <key name="fs_affiliates_email_verification_email_message"/>
+        <!-- Email Verification-->
+        
+        <!-- Refer a Friend-->
+        <key name="fs_affiliates_refer_friend_email_label"/>
+        <key name="fs_affiliates_refer_friend_subject_label"/>
+        <key name="fs_affiliates_refer_friend_email_message_label"/>
+        <key name="fs_affiliates_refer_friend_email_placeholder"/>
+        <key name="fs_affiliates_refer_friend_subject_placeholder"/>
+        <key name="fs_affiliates_refer_friend_email_message_placeholder"/>
+        <key name="fs_affiliates_refer_friend_email_field_error"/>
+        <key name="fs_affiliates_refer_friend_email_field_error"/>
+        <key name="fs_affiliates_refer_friend_email_subject_field_error"/>
+        <key name="fs_affiliates_refer_friend_email_message_field_error"/>
+        <key name="fs_affiliates_refer_friend_email_sent_success"/>
+        <key name="fs_affiliates_refer_friend_email_sent_fails"/>
+        <!-- Refer a Friend-->
+        
+        <!-- Email Opt-in-->
+        <key name="fs_affiliates_affs_email_opt_in_frontend_label"/>
+        <key name="fs_affiliates_affs_email_opt_in_affs_subject"/>
+        <key name="fs_affiliates_affs_email_opt_in_affs_message"/>
+        <!-- Email Opt-in-->
+        
+        <!-- Pushover Notification-->
+        <key name="fs_affiliates_pushover_notifications_dashboard_menu_label"/>
+        <key name="fs_affiliates_pushover_notifications_pushover_key_label"/>
+        <key name="fs_affiliates_pushover_notifications_new_visit_label"/>
+        <key name="fs_affiliates_pushover_notifications_new_referral_label"/>
+        <key name="fs_affiliates_pushover_notifications_new_payout_label"/>
+        <key name="fs_affiliates_pushover_notifications_device_name_label"/>
+        <key name="fs_affiliates_pushover_notifications_new_visit_subject"/>
+        <key name="fs_affiliates_pushover_notifications_new_visit_message"/>
+        <key name="fs_affiliates_pushover_notifications_new_referral_subject"/>
+        <key name="fs_affiliates_pushover_notifications_new_referral_message"/>
+        <key name="fs_affiliates_pushover_notifications_new_payout_subject"/>
+        <key name="fs_affiliates_pushover_notifications_new_payout_message"/>
+        <!-- Pushover Notification-->
+        
+        <!-- Referral Code-->
+        <key name="fs_affiliates_referral_code_dashboard_label"/>
+        <key name="fs_affiliates_referral_code_field_label"/>
+        <key name="fs_affiliates_referral_code_field_link_label"/>
+        <key name="fs_affiliates_referral_code_apply_field_caption"/>
+        <key name="fs_affiliates_referral_code_field_placeholder"/>
+        <key name="fs_affiliates_referral_code_submit_button_caption"/>
+        <key name="fs_affiliates_referral_code_checkout_page_message"/>
+        <!-- Referral Code-->
+        
+        <!-- Notifications -->
+        <key name="fs_affiliates_admin_submitted_registration_subject"/>
+        <key name="fs_affiliates_admin_submitted_registration_message"/>
+        <key name="fs_affiliates_admin_submitted_registration_sms_message"/>
+        
+        <key name="fs_affiliates_admin_completed_registration_subject"/>
+        <key name="fs_affiliates_admin_completed_registration_message"/>
+        <key name="fs_affiliates_admin_completed_registration_sms_message"/>
+        
+        <key name="fs_affiliates_admin_profile_updated_subject"/>
+        <key name="fs_affiliates_admin_profile_updated_message"/>
+        <key name="fs_affiliates_admin_profile_updated_sms_message"/>
+        
+        <key name="fs_affiliates_admin_new_referral_request_subject"/>
+        <key name="fs_affiliates_admin_new_referral_request_message"/>
+        <key name="fs_affiliates_admin_new_referral_request_sms_message"/>
+        
+        <key name="fs_affiliates_admin_new_referral_subject"/>
+        <key name="fs_affiliates_admin_new_referral_message"/>
+        <key name="fs_affiliates_admin_new_referral_sms_message"/>
+        
+        <key name="fs_affiliates_affiliate_request_submitted_subject"/>
+        <key name="fs_affiliates_affiliate_request_submitted_message"/>
+        <key name="fs_affiliates_affiliate_request_submitted_sms_message"/>
+        
+        <key name="fs_affiliates_affiliate_request_approved_subject"/>
+        <key name="fs_affiliates_affiliate_request_approved_message"/>
+        <key name="fs_affiliates_affiliate_request_approved_sms_message"/>
+        
+        <key name="fs_affiliates_affiliate_request_rejected_subject"/>
+        <key name="fs_affiliates_affiliate_request_rejected_message"/>
+        <key name="fs_affiliates_affiliate_request_rejected_sms_message"/>
+        
+        <key name="fs_affiliates_affiliate_request_deleted_subject"/>
+        <key name="fs_affiliates_affiliate_request_deleted_message"/>
+        <key name="fs_affiliates_affiliate_request_deleted_sms_message"/>
+        
+        <key name="fs_affiliates_affiliate_profile_updated_subject"/>
+        <key name="fs_affiliates_affiliate_profile_updated_message"/>
+        <key name="fs_affiliates_affiliate_profile_updated_sms_message"/>
+        
+        <key name="fs_affiliates_affiliate_password_reset_subject"/>
+        <key name="fs_affiliates_affiliate_password_reset_message"/>
+        
+        <key name="fs_affiliates_affiliate_password_reset_success_subject"/>
+        <key name="fs_affiliates_affiliate_password_reset_success_message"/>
+        
+        <key name="fs_affiliates_affiliate_new_referral_subject"/>
+        <key name="fs_affiliates_affiliate_new_referral_message"/>
+        <key name="fs_affiliates_affiliate_new_referral_sms_message"/>
+        
+        <key name="fs_affiliates_affiliate_payment_success_subject"/>
+        <key name="fs_affiliates_affiliate_payment_success_message"/>
+        <key name="fs_affiliates_affiliate_payment_success_sms_message"/>
+        
+        <key name="fs_affiliates_affiliate_payment_failed_subject"/>
+        <key name="fs_affiliates_affiliate_payment_failed_message"/>
+        <key name="fs_affiliates_affiliate_payment_failed_sms_message"/>
+        
+        <key name="fs_affiliates_affiliate_account_deleted_subject"/>
+        <key name="fs_affiliates_affiliate_account_deleted_message"/>
+        <key name="fs_affiliates_affiliate_account_deleted_sms_message"/>
+        <!-- Notifications -->
+        
+        <!--Settings-->
+        <key name="fs_affiliates_wc_coupon_restrict_msg"/>
+        <!--Settings-->
+        
+    </admin-texts>
+</wpml-config>

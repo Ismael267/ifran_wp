@@ -1,0 +1,8 @@
+2022-03-08T09:34:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\ifran_wp\wp-content\plugins\elementor\includes\controls\base-data.php à la ligne 4
+
+2022-03-08T09:34:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\ifran_wp\wp-content\plugins\elementor\includes\fonts.php à la ligne 4
+
+2022-03-08T09:34:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\ifran_wp\wp-content\plugins\elementor\includes\controls\animation.php à la ligne 4
+
+2022-03-08T09:34:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\wamp64\www\ifran_wp\wp-content\plugins\elementor\includes\controls\hover-animation.php à la ligne 4
+
